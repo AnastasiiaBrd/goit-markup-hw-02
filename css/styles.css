@@ -34,6 +34,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  color: var(--title-color);
 }
 .menu-link:hover,
 .menu-link:focus,
@@ -128,6 +129,7 @@ body {
   color: var(--main-color);
 }
 .address-link {
+  font-style: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
